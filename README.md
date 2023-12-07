@@ -1,7 +1,7 @@
 # El Ajedrez
 
 
-## Puedes ver este repositorio en linea en el siguiente enlace: https://github.com/pablomarquezuax/Marquez_Pablo_PJ.git
+## Puedes ver este repositorio en linea en el siguiente enlace: https://github.com/pablomarquezuax/ajedrez.git
 
 
 ### Instrucciones de la tarea: 
